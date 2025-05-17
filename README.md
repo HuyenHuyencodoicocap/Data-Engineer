@@ -1,3 +1,7 @@
 # Sales DW
-- L� m?t d? �n x�y d?ng m� h�nh data warehouse cho d? li?u v? b�n h�ng nh?m ph?c v? vi?c l?u tr? v� truy c?p c�c b�o c�o c� li�n quan t?i b�n h�ng gi�p nh� qu?n l� c� th? c� c�i nh�n t?ng quan h?n v? doanh nghi?p c?ng nh? n?m b?t ???c t�nh h�nh kinh doanh hi?n t?i ?? ??a ra c�c quy?t ??nh, chi?n l??c ph�t tri?n cho t??ng lai.
+- Là một dự án xây dựng mô hình data warehouse cho dữ liệu về bán hàng nhằm phục vụ việc lưu trữ và truy cập các báo cáo có liên quan tới bán hàng giúp nhà quản lý có thể có cái nhìn tổng quan hơn về doanh nghiệp cũng như nắm bắt tình hình kinh doanh hiện tại để ra các quyết định, chiến lược  phát triển cho tương lai.
+# Người thực hiện
+- Lê Thanh Huyền
+# Giảng viên hỗ trợ
+- Thầy Tạ Minh Tùng
 
