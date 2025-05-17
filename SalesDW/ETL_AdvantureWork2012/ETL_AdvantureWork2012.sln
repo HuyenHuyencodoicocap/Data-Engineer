@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ETL_AdvantureWork2012", "ETL_AdvantureWork2012.dtproj", "{3AC05A8A-7F20-4BDE-BD32-06FA01DC521A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC05A8A-7F20-4BDE-BD32-06FA01DC521A}.Development|Default.ActiveCfg = Development
+		{3AC05A8A-7F20-4BDE-BD32-06FA01DC521A}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367DE2D4-D88E-47BF-ACE8-F49CA701E656}
+	EndGlobalSection
+EndGlobal
